@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SPRING-FILE-UPLOAD
+  servlet:
+    multipart:
+      enabled: true
